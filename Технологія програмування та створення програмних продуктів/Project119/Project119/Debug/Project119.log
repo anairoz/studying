@@ -1,0 +1,5 @@
+﻿  Dmytryk.cpp
+d:\studying\4 курс\технологія програмування та створення програмних продуктів\project119\project119\dmytryk.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Dmytryk.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project119.vcxproj -> D:\studying\4 курс\Технологія програмування та створення програмних продуктів\Project119\Debug\Project119.exe
