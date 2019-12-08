@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\indeema\desktop\lab3\lab3\myform.h(175): warning C4101: 'mas': unreferenced local variable
+c:\users\indeema\desktop\lab3\lab3\myform.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab3.vcxproj -> C:\Users\Indeema\Desktop\lab3\Debug\lab3.exe

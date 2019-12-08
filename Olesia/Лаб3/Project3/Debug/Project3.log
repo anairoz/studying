@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\home\desktop\лаб3\project3\myform.h(183): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\desktop\лаб3\project3\myform.h(163): warning C4101: new_arr: неиспользованная локальная переменная
+c:\users\home\desktop\лаб3\project3\myform.h(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\desktop\лаб3\project3\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\Home\Desktop\Лаб3\Debug\Project3.exe

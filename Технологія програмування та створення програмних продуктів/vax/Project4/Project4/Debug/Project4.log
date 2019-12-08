@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\ostap\documents\visual studio 2015\projects\project4\project4\MyForm.h(56): warning C4376: спецификатор доступа "public private:" более не поддерживается: вместо этого используйте "internal:"
+c:\users\ostap\documents\visual studio 2015\projects\project4\project4\MyForm.h(430): warning C4018: <: несоответствие типов со знаком и без знака
+MyForm.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Project4.vcxproj -> C:\Users\ostap\documents\visual studio 2015\Projects\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\ostap\documents\visual studio 2015\Projects\Project4\Debug\Project4.pdb (Partial PDB)

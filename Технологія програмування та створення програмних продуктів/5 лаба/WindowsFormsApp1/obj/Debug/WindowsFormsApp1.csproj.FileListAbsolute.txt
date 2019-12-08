@@ -1,0 +1,29 @@
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Администратор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Анна-Марія\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zoria\OneDrive\Documents\studying\4 курс\Технологія програмування та створення програмних продуктів\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

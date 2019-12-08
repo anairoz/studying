@@ -1,0 +1,5 @@
+﻿  OleksandraVarvarenkoForm.cpp
+c:\users\home\desktop\olesia\л2\project104\project104\oleksandravarvarenkoform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  OleksandraVarvarenkoForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project104.vcxproj -> C:\Users\Home\Desktop\Olesia\л2\Project104\Debug\Project104.exe
